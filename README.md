@@ -1,3 +1,4 @@
+#teste git-flow
 # Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -34,7 +35,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This website helps you to understand the exact way to study as a professional data scientist.
 
-Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
+Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications.
 
 ## Infographic
 
@@ -103,7 +104,7 @@ Preview | Description
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-* [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
+* [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)
 
 
 ## Data Sets
@@ -240,7 +241,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](https://springboard.com/blog) - A blog with resources for data science learners
-- [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material. 
+- [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
 - [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.
 - [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
 - [Colah's Blog](http://colah.github.io) - Blog for understanding Neural Networks!
@@ -416,16 +417,16 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
  * [Julia](http://julialang.org) – high-level, high-performance dynamic programming language for technical computing
  * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
- * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
+ * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven,
 interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
-* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
+* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.
 
 Quick Start
 
- 
+
 ## Visualization Tools - Environments
- 
+
  * [addepar](http://opensource.addepar.com/ember-charts/#/overview)
  * [amcharts](https://www.amcharts.com/)
  * [anychart](http://www.anychart.com/)
